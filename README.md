@@ -9,6 +9,4 @@ This application will let you save your preferences in a savefile located in "C:
 
 <img src=https://i.imgur.com/4mPafe3.jpg>
 
-Download : 
-
 Note : You need to select at least a Primary and Secondary Weapons. Gadgets requires to also select specialists. Gadgets will follow class restrictions, or Lis restrictions
