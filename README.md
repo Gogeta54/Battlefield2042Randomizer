@@ -9,4 +9,6 @@ This application will let you save your preferences in a savefile located in "C:
 
 <img src=https://i.imgur.com/4mPafe3.jpg>
 
+**Download : [Battlefield 2042 Randomizer 0.9 Beta](https://github.com/Gogeta54/Battlefield2042Randomizer/archive/refs/heads/main.zip)**
+
 Note : You need to select at least a Primary and Secondary Weapons. Gadgets requires to also select specialists. Gadgets will follow class restrictions, or Lis restrictions
