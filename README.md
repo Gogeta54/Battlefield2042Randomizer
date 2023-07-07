@@ -1,4 +1,4 @@
-# Battlefield2042Randomizer
+# Battlefield 2042 Randomizer
 A Randomizer that will select your soldier loadout for you
 
 You don't know what to play ? You want to spice your gameplay ? This is for you ! 
